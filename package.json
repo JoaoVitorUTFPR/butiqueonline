@@ -1,0 +1,15 @@
+{
+  "name": "butique-online",
+  "version": "1.0.0",
+  "description": "Projeto ecommerce para a Butique Online - Bruno Alves e João Vitor Mota Spanol",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.16.0",
+    "mongoose": "^7.3.1",
+    "nodemon": "^3.1.10"
+  }
+}
